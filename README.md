@@ -53,7 +53,7 @@
 
 <hr/>
 
-<h3 align="left" style="color: #ffffff;">⚡ Stats ⚡:</h3>
+<h3 align="center" style="color: #ffffff;">⚡ Stats ⚡:</h3>
 <p align="left" style="background-color: #1a1a1a;"> 
   <!-- Icons for languages and tools -->
 </p>
