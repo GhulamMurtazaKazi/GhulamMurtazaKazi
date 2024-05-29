@@ -4,6 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ghulam+Murtaza+Kazi!;" />
 </h1>
 
+<a href="https://app.daily.dev/ghulammurtazakazi"><img src="https://api.daily.dev/devcards/v2/z6YKfBhUdNLL8e1bkjOxg.png?type=default&r=sv2" width="356" alt="Ghulam Murtaza kazi's Dev Card"/></a>
+
 <h3 align="center">A passionate AI/ML undergraduate from Karachi,Pakistan </h3>
 
 <br/>
