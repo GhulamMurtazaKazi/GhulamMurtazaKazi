@@ -33,7 +33,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,html,css" />
@@ -53,7 +53,7 @@
 
 <hr/>
 
-<h3 align="left" style="color: #ffffff;">Languages and Tools:</h3>
+<h3 align="left" style="color: #ffffff;">⚡ Stats ⚡:</h3>
 <p align="left" style="background-color: #1a1a1a;"> 
   <!-- Icons for languages and tools -->
 </p>
