@@ -8,6 +8,13 @@
 
 <br/>
 
+<!-- Inserting GitHub Profile Trophy -->
+<p align="center">
+  <a href="https://github.com/GhulamMurtazaKazi/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=GhulamMurtazaKazi&theme=darkhub&no-bg=true" alt="GhulamMurtazaKazi trophies" />
+  </a>
+</p>
+
 <div align="center">
  
  🔭 I’m currently working on **C++,python projects**
